@@ -109,16 +109,4 @@ npm run dev
 - Review and rating system
 - Admin dashboard
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🙏 Acknowledgments
-
-- Images sourced from Unsplash
-- Built with modern web technologies
-- Inspired by India's rich spiritual heritage
-
----
-
-**Made with devotion for spiritual journeys** 🕉️
